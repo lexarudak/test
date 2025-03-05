@@ -1,2 +1,4 @@
 - init project
 - add ts
+- add linter
+- add prettier
